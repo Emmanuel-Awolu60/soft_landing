@@ -167,6 +167,14 @@ docker run -p 80:80 app
 This project demonstrates a production-style DevOps workflow where infrastructure provisioning and application deployment are fully automated, version-controlled, and reproducible.
 
 
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-04-45" src="https://github.com/user-attachments/assets/35af98fe-dff3-47d1-8151-24952b49ae45" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-05-32" src="https://github.com/user-attachments/assets/00245bf5-f1be-423f-b8a1-3fe1083d6a57" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-07-56" src="https://github.com/user-attachments/assets/6366067d-08e2-41c9-a7de-b3a78e2bfe25" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-06-04" src="https://github.com/user-attachments/assets/ab5b2de7-a01e-42d0-8802-d6b6b5be5dd7" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-06-58" src="https://github.com/user-attachments/assets/125d4ac1-8fc0-4518-8398-6fbf046899dc" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-06-51" src="https://github.com/user-attachments/assets/4a6a9f8e-26a1-46b2-ab9c-29ffd5d2b60c" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-06-37" src="https://github.com/user-attachments/assets/27cb6780-1a4a-43d1-8f60-8e225a5ef2e2" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-06-29" src="https://github.com/user-attachments/assets/c716a502-86cd-4006-a834-1a06bdc9f5e3" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-09-28" src="https://github.com/user-attachments/assets/1e77d27c-db98-448f-a376-44c8c9545d23" />
+<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-08-09" src="https://github.com/user-attachments/assets/8b023478-2bca-42c8-8dc1-3810e289dde2" />
 
-
-<img width="1366" height="768" alt="Screenshot from 2026-02-11 11-09-28" src="https://github.com/user-attachments/assets/27148b02-0d38-472f-91cb-8724a6804140" />
